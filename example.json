@@ -1,0 +1,35 @@
+{
+    "items": [
+        {
+            "name": "Example Item",
+            "item": "examplemod:example_item",
+            "meta": 0,
+            "texture": "examplemod:items/example_item"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Example Block",
+            "block": "examplemod:example_block",
+            "meta": 0,
+            "blockstate": "examplemod:block/exampleBlock"
+        }
+    ],
+    "recipes": {
+        "shaped": [
+
+        ],
+        "shapeless": [
+
+        ]
+    },
+    "blockstates": [
+        {
+            "name": "examplemod:block/exampleBlock",
+            "model": "block/generated",
+            "sides": "all_sides",
+            "comment": "This'll be replaced with correct one."
+        }
+    ]
+    
+}
